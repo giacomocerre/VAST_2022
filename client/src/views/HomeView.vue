@@ -11,9 +11,9 @@
         <div class="hidden sm:mb-8 sm:flex sm:justify-center">
           <div
             class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-            Information about the project completed for the Visual Analysis exam, focusing on the VAST Challenge 2022. <router-link to="/dashboard" class="font-semibold text-indigo-500"><span
+            Information about the project completed for the Visual Analysis exam, focusing on the VAST Challenge 2022. <a href="https://github.com/giacomocerre/VAST_2022/blob/master/report.pdf" class="font-semibold text-indigo-500"><span
                 class="absolute inset-0" aria-hidden="true" />Read more <span
-                aria-hidden="true">&rarr;</span></router-link>
+                aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
         <div class="text-center">
